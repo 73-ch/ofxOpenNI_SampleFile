@@ -1,4 +1,4 @@
-# ofxOpenNI_SampleFiles
+# ofxOpenNI_SampleFile
 
 このサンプルは https://github.com/nami634/ofxOpenNI を使用した時の諸設定を行なった後のサンプルファイルになります。
 このサンプルを動作させるためには、あらかじめofのaddonのフォルダに先のofxOpenNIがインストールされている必要があります。
